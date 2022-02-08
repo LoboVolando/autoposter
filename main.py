@@ -3,8 +3,8 @@ import os
 import telebot
 import logica
 
-api_key = '5099467386:AAEr2ypjtxO4iPQmxgYVLdfpewW5bKp3vhg'
-# token = config('MY_TOKEN')
+
+api_key = config('MY_TOKEN')
 my_bot = telebot.TeleBot(api_key)
 answers = {'привет': 'Как дела?'}
 
