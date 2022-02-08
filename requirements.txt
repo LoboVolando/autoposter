@@ -1,0 +1,13 @@
+instagram-private-api==1.6.0.0
+instagram-private-api-extensions==0.3.8
+instagrapi==1.16.14
+Pillow==8.4.0
+pyTelegramBotAPI==3.8.1
+pytest==6.2.5
+python-dateutil==2.8.2
+python-decouple==3.4
+requests==2.26.0
+requests-toolbelt==0.9.1
+vk-api==11.9.7
+vkbottle==4.1.6
+vkbottle-types==5.131.131.6
